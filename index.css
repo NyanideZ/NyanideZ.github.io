@@ -3,6 +3,13 @@ body {
     background-size: cover;
 }
 
+.head {
+    color: #FFF;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 24px;
+}
+
 .main {
     color: #FFF;
     text-align: center;
